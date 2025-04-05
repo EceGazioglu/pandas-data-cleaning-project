@@ -1,0 +1,104 @@
+name,COUNTRY-CODE,gender,BIRTH-DATE,EMPLOYMENT-SPAN,HOURLY-SALARY,e_mail,ADDRESS-CODE,department,remote,performance
+Nonna Balcers,AUT,Female,4/16/1993,2015-2017,9.67 EUR,nbalcers0@illinois.edu,Miami-33120,Information Technology,FALSE,-1
+Arlyn Zanetto,AUT,Female,10/20/1998,2010-2012,3.07,azanetto1@oracle.com,Denver-80221,Customer Service,FALSE,8.
+,PRT,Female,9/29/1992,2008-2010,6.6,bronci2@amazon.de,Denver-80222,Human Resources,FALSE,2
+Miran Pollett,AUT,Female,1/5/1995,2010-2012,1.26,mpollett3@prweb.com,Phoenix-85022,Customer Service,TRUE,5
+Davidde McClary,BEL,Male,11/10/1999,2013-2015,8.82,dmcclary4@disqus.com,Denver-80223,Human Resources,FALSE,-4
+,FIN,Female,7/23/1995,2010-2012,10.54,sduignan5@prnewswire.com,Los Angeles-90024,Information Technology,Y,8.
+Carena Berntssen,NLD,Female,4/13/1998,2015-2017,10.64,cberntssen6@gizmodo.com,Dallas-75225,Human Resources,yes,5
+Dewitt Laingmaid,DEU,Male,4/19/1993,2005-2007,3.31,dlaingmaid7@prweb.com,Boston-024141,Information Technology,No,4+
+Mahmoud Hymor,NOR,Genderfluid,1/3/1991,2022-2024,10.17 EUR,mhymor8@hibu.com,Dallas-75201,Customer Service,No,0
+Derron Fargie,BEL,Male,9/22/1999,2008-2010,2.44,dfargie9@yahoo.co.jp,Boston-02102,Marketing,F,1
+Sinclare Lyfe,PRT,Agender,1/17/1998,2010-2012,10.19,slyfea@jiathis.com,Dallas-75477,Information Technology,TRUE,1
+Gonzales Frosdick,NOR,Male,11/21/1991,2018-2020,8.23,gfrosdickb@a8.net,Atlanta-30393,Information Technology,FALSE,1
+Rolland MacGorley,IRL,Male,12/22/1993,2015-2017,5.4,rmacgorleyc@scribd.com,Boston-02121,Marketing,No,2
+Kelcey Bucher,AUT,Female,23/09/1991,2008-2010,1.56,kbucherd@unesco.org,New York-14141,Human Resources,TRUE,4+
+,GBR,Female,5/8/1994,2018-2020,5.08,vmuzzulloe@google.ru,,Marketing,no,-1
+Quillan Abdee,IRL,Male,2/14/1992,2013-2015,4.86,qabdeef@xrea.com,New York-12221,Human Resources,T,NaN
+Witty De Lacey,ITA,Male,2/7/1996,2008-2010,10.93,wdeg@jugem.jp,Chicago-62663,Information Technology,FALSE,NaN
+Elbertina Whates,IRL,Female,1/3/1995,2010-2012,4.14,ewhatesh@blog.com,Atlanta-30737,Marketing,T,NaN
+Guss Bickerdicke,AUT,Male,12/1/1992,2018-2020,1.02,gbickerdickei@mail.ru,New York-72069,Human Resources,f,na
+Ynes Benadette,CHE,Female,3/11/1993,2010-2012,5.66,ybenadettej@webnode.com,Los Angeles-42069,Customer Service,No,2
+Aveline Parradice,FRA,Female,9/23/1997,2010-2012,8.1,aparradicek@over-blog.com,New York-10112,Finance,FALSE,na
+Belva Pomfrett,PRT,Female,4/27/1995,2010-2012,4.4,bpomfrettl@livejournal.com,Seattle-98943,Finance,TRUE,9*
+Rock Whal,NLD,Male,2/2/1991,2015-2017,10.71,rwhalm@php.net,Miami-33348,Marketing,TRUE,1
+,FIN,Female,4/18/1995,2013-2015,5.13,kmarmyonn@jiathis.com,Los Angeles-97474,Finance,y,5
+Hewie Dillingstone,ITA,Male,12/1/1991,2018-2020,9.47,hdillingstoneo@jimdo.com,Atlanta-96914,Information Technology,no,NaN
+Fidel Spofford,DEU,Male,30-06-1999,2005-2007,5.57,fspoffordp@ameblo.jp,Miami-33369,Human Resources,TRUE,2
+Ag Jurczak,DNK,Female,11/20/1994,2018-2020,6.51,ajurczakq@dailymail.co.uk,New York-11011,Finance,Y,-1
+Pren Grene,ESP,Male,3/19/1998,2018-2020,7.6,pgrener@theguardian.com,Atlanta-30300,Human Resources,No,3*
+Ethyl Penhale,PRT,Female,9/9/1990,2015-2017,7.91,epenhales@thetimes.co.uk,Denver-80900,Marketing,f,Na
+Garald Bell,NLD,Male,7/8/1990,2005-2007,3.08,gbellt@typepad.com,,Finance,TRUE,3*
+Edouard Loynton,IRL,Male,6/8/1990,2022-2024,5.51,eloyntonu@dagondesign.com,Denver-80707,Human Resources,FALSE,NaN
+Lorrin Edgeler,DEU,Female,8/20/1999,2005-2007,8.43,ledgelerv@army.mil,Phoenix-85990,Customer Service,No,Na
+Lissie Dimmack,IRL,Female,10/3/1997,2018-2020,10.81,ldimmackw@lycos.com,Phoenix-41414,Customer Service,Y,3*
+Bev Cafferty,SWE,Female,6/11/1994,2010-2012,1.5 EUR,bcaffertyx@unblog.fr,Los Angeles-50602,Information Technology,NO,3*
+Lil Gallimore,DEU,Female,10/20/1997,2015-2017,2.79,lgallimorey@51.la,Los Angeles-30301,Human Resources,T,8.
+Valenka Josefsson,GBR,Female,11/19/1995,2022-2024,3.1,vjosefssonz@guardian.co.uk,Denver-80204,Marketing,no,5
+Addi Petche,FIN,Female,10.21.1994,2015-2017,8.38,apetche10@blog.com,Phoenix-85764,Customer Service,TRUE,2
+Herta Sanchez,NLD,Polygender,7/8/1993,2013-2015,8.87,hsanchez11@deviantart.com,Chicago-20212,Customer Service,NO,Na
+Nathanial MacSwayde,FIN,Male,10/8/1997,2015-2017,8.1,nmacswayde12@istockphoto.com,,Finance,TRUE,na
+Peyter Wolfenden,BEL,Non-binary,3/9/1997,2005-2007,4.1,pwolfenden13@php.net,Seattle-98100,Customer Service,no,5
+Dolley Duncanson,ESP,Female,1/6/1992,2018-2020,10.31 EUR,dduncanson14@creativecommons.org,,Human Resources,No,Na
+Boot Britto,FIN,Male,8/8/1990,2013-2015,3.9,bbritto15@123-reg.co.uk,Boston-02020,Finance,yes,Na
+Carolus Decayette,ITA,Male,11/23/1996,2015-2017,2.13,cdecayette16@about.com,Phoenix-85855,Marketing,yes,8.
+Pavlov Javes,ITA,Male,12/12/1990,2010-2012,9.35,pjaves17@google.fr,Chicago-60606,Marketing,YES,1
+Justina Mc Dermid,ESP,Bigender,7/17/1990,2005-2007,1.61,jmc18@vk.com,Seattle-98989,Human Resources,T,na
+Tiphany Sharphurst,DNK,Female,11/27/1994,2015-2017,3.33,tsharphurst19@bloomberg.com,,Information Technology,TRUE,0
+Roman Crossley,PRT,Male,9/30/1993,2013-2015,10.63,rcrossley1a@reference.com,Chicago-80808,Customer Service,TRUE,-1
+Anastasia Hargreves,IRL,Female,3/31/1996,2010-2012,2.4,ahargreves1b@nymag.com,Atlanta-44404,Finance,F,4+
+Adelaida Seadon,IRL,Female,4/7/1995,2018-2020,7.88,aseadon1c@marketwatch.com,Miami-70707,Information Technology,No,NaN
+Alma Davy,DNK,Female,4/10/1998,2010-2012,5.67,adavy1d@wordpress.com,Los Angeles-99909,Finance,f,5
+Davey D'Acth,DNK,Male,4/22/1993,2015-2017,3.5,ddacth1e@php.net,Los Angeles-10101,Human Resources,F,-4
+Abram Bullant,NLD,Male,1/7/1995,2018-2020,8.96,abullant1f@cbsnews.com,Denver-11101,Information Technology,no,-4
+Brier Swaine,ITA,Female,8/15/1994,2015-2017,3.8,bswaine1g@artisteer.com,Dallas-75757,Information Technology,YES,1
+Bridie Vanyutin,SWE,Female,4/7/1998,2013-2015,9.81,bvanyutin1h@angelfire.com,Seattle-98990,Marketing,TRUE,Na
+,DNK,Male,8/2/1994,2013-2015,8.46,tspieck1i@over-blog.com,,Marketing,y,4+
+Reggie Hellings,BEL,Non-binary,12/15/1995,2018-2020,6.44,rhellings1j@nbcnews.com,Miami-38101,Information Technology,no,NaN
+Layney Stickells,BEL,Female,1/1/1991,2005-2007,1.8,lstickells1k@comsenz.com,Dallas-85201,Human Resources,F,1
+,NOR,Female,1/6/1995,2013-2015,10.92,pmcreynold1l@xrea.com,Boston-02192,Information Technology,FALSE,9*
+Osmond Meni,DEU,Male,5/12/1999,2018-2020,2.81,omeni1m@arizona.edu,Dallas-75505,Customer Service,TRUE,4+
+Carlie Rubega,BEL,Male,3/20/1999,2022-2024,5.19,crubega1n@twitpic.com,Los Angeles-90707,Human Resources,F,4+
+Niles Ramiro,SWE,Male,4/21/1990,2018-2020,5.27,nramiro1o@cisco.com,Seattle-98666,Marketing,yes,5
+Trudi Pehrsson,DNK,Female,1/4/1997,2013-2015,5.15,tpehrsson1p@about.me,Miami-33333,Information Technology,T,-1
+Leroy Deem,ITA,Male,8/25/1999,2013-2015,8.63,ldeem1q@vistaprint.com,Seattle-98118,Human Resources,YES,NaN
+Johny Mawdsley,FRA,Male,10/21/1991,2005-2007,6.34,jmawdsley1r@phoca.cz,,Human Resources,TRUE,0
+Anni Maffulli,DEU,Female,6/1/1990,2015-2017,6.83,amaffulli1s@gov.uk,Los Angeles-99999,Finance,YES,3*
+Carlo Tibbetts,ITA,Male,1/5/1997,2022-2024,3.49,ctibbetts1t@aol.com,Denver-88888,Customer Service,Y,4+
+Janice O'Farrell,CHE,Female,4/10/1990,2010-2012,9.96,jofarrell1u@zimbio.com,,Human Resources,FALSE,Na
+Nap Farriar,FIN,Male,1/6/1994,2008-2010,8.27,nfarriar1v@blog.com,Seattle-97777,Information Technology,Y,0
+Tally Thirkettle,ESP,Male,1/13/1991,2015-2017,2.47,tthirkettle1w@ted.com,Phoenix-85555,Customer Service,f,na
+Amory Braunle,DNK,Male,5/23/1994,2015-2017,9.17,abraunle1x@weibo.com,New York-14444,Marketing,no,2
+Margi Grevel,DNK,Female,7/11/1995,2015-2017,2.19,mgrevel1y@slate.com,Denver-83333,Customer Service,YES,3*
+Adrian Raddin,NLD,Male,11/11/1992,2015-2017,9.78,araddin1z@gnu.org,Seattle-92222,Human Resources,no,9*
+Sandi Brader,IRL,Female,1/13/1998,2018-2020,3.07,sbrader20@craigslist.org,Miami-33776,Information Technology,F,2
+Evelin Gidley,DEU,Male,10.17.1997,2018-2020,8.15,egidley21@cornell.edu,New York-17701,Customer Service,TRUE,-1
+Antonio Maghull,FIN,Male,8/14/1999,2022-2024,8.54,amaghull22@pinterest.com,Chicago-60641,Finance,TRUE,3*
+Cecilius Harvatt,ESP,Male,12/9/1997,2015-2017,8.14,charvatt23@ted.com,Boston-02401,Finance,F,2
+Mahala Felton,ITA,Female,11/20/1997,2010-2012,2.32,mfelton24@ning.com,Los Angeles-91100,Finance,no,8.
+Irving Cranfield,GBR,Male,11/30/1997,2010-2012,11.45,icranfield25@marketwatch.com,Los Angeles-90661,Marketing,no,Na
+Chris Comford,IRL,Male,9/15/1996,2005-2007,3.27,ccomford26@free.fr,Chicago-60681,Information Technology,TRUE,5
+Drucill Yankeev,DNK,Female,11/7/1999,2015-2017,8.81,dyankeev27@squarespace.com,Miami-93101,Marketing,TRUE,na
+Brenda Midgley,FRA,Female,12/22/1992,2022-2024,11.61,bmidgley28@adobe.com,Chicago-40601,Finance,y,-4
+Padgett Warlton,DNK,Bigender,3/25/1992,2008-2010,4.24,pwarlton29@msn.com,Boston-02101,Information Technology,TRUE,-4
+Gabbie Canizares,SWE,Female,1/20/1991,2015-2017,8.81,gcanizares2a@vimeo.com,New York-42201,Information Technology,TRUE,-4
+Les Akhurst,NOR,Male,18.10.1992,2010-2012,8.11,lakhurst2b@cafepress.com,Seattle-98111,Marketing,T,NaN
+Baxter Dunston,ESP,Male,12/21/1995,2005-2007,3.13,bdunston2c@diigo.com,Miami-33131,Customer Service,FALSE,5
+Tynan Towl,CHE,Male,3/12/1998,2015-2017,11.46,ttowl2d@huffingtonpost.com,Atlanta-30391,Customer Service,y,5
+,ESP,Male,7/24/1996,2015-2017,7.53,dkohrs2e@angelfire.com,Miami-33171,Customer Service,no,8.
+Doug Mazzeo,NOR,Male,9/9/1993,2013-2015,11.25,dmazzeo2f@360.cn,Denver-87201,Finance,TRUE,1
+Gertrude Thornally,AUT,Female,9/6/1992,2015-2017,11.53,gthornally2g@walmart.com,Chicago-60600,Human Resources,No,1
+Felic Harrow,BEL,Male,11/16/1992,2022-2024,11.23,fharrow2h@i2i.jp,Chicago-60699,Human Resources,TRUE,5
+,IRL,Male,2/18/1995,2018-2020,4.76,pmogie2i@fda.gov,,Information Technology,FALSE,1
+Cyrille Casajuana,ITA,Male,1/27/1996,2008-2010,1.98,ccasajuana2j@unicef.org,Seattle-98109,Human Resources,No,na
+Robenia Kirkbright,GBR,Female,8/6/1997,2013-2015,9.2,rkirkbright2k@domainmarket.com,Denver-80220,Human Resources,No,na
+Cleon Mapplethorpe,ESP,Male,9/7/1992,2018-2020,10.12,cmapplethorpe2l@sbwire.com,Phoenix-85051,Marketing,TRUE,0
+,PRT,Female,1/22/1998,2013-2015,6.02,ablinerman2m@java.com,Boston-55101,Customer Service,F,na
+Esme Bortolotti,SWE,Male,8/1/1996,2013-2015,5.42,ebortolotti2n@zimbio.com,Seattle-98101,Customer Service,f,8.
+Othella Signoret,ESP,Female,10/15/1998,2008-2010,9.04,osignoret2o@scientificamerican.com,,Marketing,no,9*
+Alvina Quarles,FIN,Female,12/6/1998,2013-2015,3.78,aquarles2p@java.com,,Marketing,no,2
+Fayina Follos,ESP,Female,8/10/1998,2015-2017,5.4,ffollos2q@smugmug.com,,Customer Service,Y,8.
+Roanna Attewell,AUT,Female,17/4/1997,2005-2007,10.1,rattewell2r@archive.org,Miami-33221,Finance,yes,1
+Pren Grene,ESP,Male,3/19/1998,2018-2020,7.6,pgrener@theguardian.com,Atlanta-30300,Human Resources,No,3*
+Peyter Wolfenden,BEL,Non-binary,3/9/1997,2005-2007,4.1,pwolfenden13@php.net,Seattle-98100,Customer Service,no,5
+Gertrude Thornally,AUT,Female,9/6/1992,2015-2017,11.53,gthornally2g@walmart.com,Chicago-60600,Human Resources,No,1
